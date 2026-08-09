@@ -25,16 +25,41 @@
 
 <table>
 <tr>
-<td width="42%"><img src="https://leafyapp.uk/images/readme/lookup.gif" alt="Looking a word up in place"></td>
+<td width="42%"><img src="https://leafyapp.uk/images/readme/scan.gif" alt="Boxing a word in a PDF and reading the definition in place"></td>
 <td valign="middle">
 
-### Look it up
+### Box any word on screen
 
-Box a word and Leafy reads the whole sentence around it, so the meaning you get
-is the one that fits where you found it.
+Press <kbd>⌥A</kbd> and draw a box. Leafy reads the whole sentence around the
+word, so the meaning you get is the one that fits where you found it.
 
-Pronunciation, part of speech and a second example come with it. Works over
-PDFs, ebooks, images, subtitles, anything on screen.
+It reads pixels, not text fields, so a scanned PDF or a screenshot works the
+same as a web page.
+
+</td>
+</tr>
+<tr>
+<td><img src="https://leafyapp.uk/images/readme/selectionbar.gif" alt="Selecting text and choosing look up or translate from the bar"></td>
+<td valign="middle">
+
+### Or just select it
+
+Selectable text needs no box. Highlight it and a small bar offers **Look up**,
+**Translate** and **Add**.
+
+Translations come back in your own language, with the meaning in context,
+synonyms and a note on usage.
+
+</td>
+</tr>
+<tr>
+<td><img src="https://leafyapp.uk/images/readme/lookup.gif" alt="The definition popup with pronunciation and examples"></td>
+<td valign="middle">
+
+### Read it without leaving
+
+The definition opens over what you are reading and closes when you are done.
+Pronunciation, part of speech and a second example come with it.
 
 </td>
 </tr>
