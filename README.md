@@ -140,6 +140,18 @@ Only the current version can be downloaded. Older builds are refused by the upda
 
 <br>
 
+## Elsewhere
+
+| | |
+| :--- | :--- |
+| [Discord](https://discord.gg/cr3mHVtT5j) | Ask something, report something, or watch what is being built. |
+| [r/LeafyApp](https://www.reddit.com/r/LeafyApp/) | Release notes and the occasional question. |
+| [Product Hunt](https://www.producthunt.com/products/leafy-vocabulary-builder-for-mac) | Leave a review if Leafy earned one. |
+| [AlternativeTo](https://alternativeto.net/software/leafy-vocabulary-builder-for-mac/) | Where people look when they are shopping around. |
+| [@jtobin9ic](https://x.com/jtobin9ic) | The person making it. |
+
+<br>
+
 <p align="center">
   Found a bug, or want to ask for something?<br>
   <a href="https://github.com/binjto-boop/leafy-releases/issues">Open an issue</a>
