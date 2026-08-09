@@ -26,23 +26,25 @@ It reads what is on the screen rather than what is in a text field, so it works 
 
 ## How it works
 
-1. Press <kbd>⌥A</kbd> and box any word.
-2. Leafy reads the whole sentence, not just the word, so the meaning fits the context you met it in.
-3. The word lands in a searchable library, sorted into folders, with the sentence attached.
-
-<p align="center">
-  <img src="https://leafyapp.uk/images/effervescent-light.png" alt="The Leafy popup showing the definition of the word effervescent" width="420">
-</p>
+|  | What happens |
+| :--- | :--- |
+| <img src="https://leafyapp.uk/images/readme/lookup.gif" width="300"> | **Look it up.** Press <kbd>⌥A</kbd> and box any word. Leafy reads the whole sentence around it, so the meaning you get is the one that fits where you found it, with pronunciation and a second example underneath. |
+| <img src="https://leafyapp.uk/images/readme/library.gif" width="300"> | **It saves itself.** Every lookup lands in a searchable library with the sentence attached, sorted into folders you choose. Nothing to type up afterwards. |
+| <img src="https://leafyapp.uk/images/readme/review.gif" width="300"> | **Review writes itself.** Leafy blanks the word out of the sentence you first met it in and asks you to fill the gap. A few each day, no decks to build. |
 
 ## What you get
 
 - **Scan anything on screen.** PDFs, ebooks, images, subtitles, scanned text.
 - **Definitions in context.** The sentence you found the word in shapes the meaning shown.
 - **A library that builds itself.** Every lookup is saved, searchable, and yours to organise.
-- **Review that writes itself.** Leafy blanks out the word in the sentence you first met it in and asks you to fill the gap. No decks to build.
+- **Review that writes itself.** Fill in the blank, built from your own reading.
 - **Import and export.** JSON, CSV, Excel, PDF and Anki, plus templates for bringing a list in from another app.
 - **PopClip support.** Define, Translate and Save straight from the PopClip bar.
 - **Menu bar mode.** Runs without a Dock icon if you want it out of the way.
+
+<p align="center">
+  <img src="https://leafyapp.uk/images/effervescent-light.png" alt="The Leafy popup showing the definition of the word effervescent" width="380">
+</p>
 
 ## Languages
 
