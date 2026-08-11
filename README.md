@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/languages-10-4c9a2a" alt="10 study languages">
 </p>
 
+<p align="center">
+  <sub>Leafy is closed source. This repository is the official download, the changelog and the issue tracker.</sub>
+</p>
+
 <br>
 
 <table>
@@ -73,7 +77,7 @@ Every lookup lands in a searchable library with its sentence attached, sorted
 into folders you choose.
 
 Nothing to type up afterwards. Come back to a vocabulary you never sat down to
-build.
+build. Saved something you did not mean to? Delete it and it is gone.
 
 </td>
 </tr>
@@ -117,7 +121,7 @@ The interface itself runs in 16 languages. More study languages are on the way.
 
 Download the latest `.dmg` from [Releases](https://github.com/binjto-boop/leafy-releases/releases/latest) and drag Leafy to Applications.
 
-macOS will ask for Screen Recording the first time you scan. That permission is what lets Leafy read words off the screen, and nothing leaves your Mac because of it.
+macOS will ask for Screen Recording the first time you scan. That permission is what lets Leafy read words off the screen. What it captures is not uploaded anywhere. To write a definition Leafy sends the word and the sentence it sits in, through a proxy, with no account and nothing identifying you attached. Your library stays on your Mac.
 
 Updates arrive in the app. Quit with <kbd>⌘Q</kbd> and reopen to pick one up.
 
@@ -135,6 +139,8 @@ This repository hosts the released builds and their notes. Leafy itself is close
 Every version's changes are listed under [Releases](https://github.com/binjto-boop/leafy-releases/releases), and there is a readable history on the [updates page](https://leafyapp.uk/update).
 
 Only the current version can be downloaded. Older builds are refused by the update service, so running one is not possible.
+
+Your words are not tied to that. The library is a plain JSON file on your Mac. Back it up, move it to another machine, or export it to Anki whenever you want, with or without Leafy running.
 
 </details>
 
