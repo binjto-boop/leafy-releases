@@ -1,0 +1,7 @@
+# Opts this repository into the PopClip Extensions Directory.
+# The directory reads the packages matched below on every pushed tag, and only
+# resubmits the ones whose folder actually changed, so the app's own release
+# tags do not republish the extension unless it was edited.
+# https://www.popclip.app/extensions/submit
+include: "source/*.popclipext"
+versionPrefix: v
