@@ -1,12 +1,12 @@
 {
     "identifier": "com.leafy.popclip.lookup",
     "popclipVersion": 6159,
-    "name": "Leafy",
+    "name": "LeafyApp",
     "icon": "icon.png",
-    "description": "Look up, translate, save, or make an Anki card from the selected text with Leafy.",
-    "keywords": "vocabulary dictionary define definition translate translation anki flashcards save words language learning reading",
+    "description": "Look up, translate, save, or make an Anki card from the selected text with LeafyApp.",
+    "keywords": "leafy vocabulary dictionary define definition translate translation anki flashcards save words language learning reading",
     "app": {
-        "name": "Leafy",
+        "name": "LeafyApp",
         "link": "https://leafyapp.uk",
         "bundleIdentifiers": [
             "com.Leafy"

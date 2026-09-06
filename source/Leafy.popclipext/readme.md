@@ -1,6 +1,6 @@
-# Leafy
+# LeafyApp
 
-Adds four actions for [Leafy](https://leafyapp.uk), a vocabulary app for macOS.
+Adds four actions for [LeafyApp](https://leafyapp.uk), a vocabulary app for macOS.
 
 Select a word anywhere on your Mac and PopClip offers:
 
