@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="42%"><img src="https://leafyapp.uk/images/readme/scan.gif" alt="Boxing a word in a PDF and reading the definition in place"></td>
+<td width="42%"><img src="images/scan.gif" alt="Boxing a word in a PDF and reading the definition in place"></td>
 <td valign="middle">
 
 ### Box any word on screen
@@ -43,7 +43,7 @@ same as a web page.
 </td>
 </tr>
 <tr>
-<td><img src="https://leafyapp.uk/images/readme/selectionbar.gif" alt="Selecting text and choosing look up or translate from the bar"></td>
+<td><img src="images/selectionbar.gif" alt="Selecting text and choosing look up or translate from the bar"></td>
 <td valign="middle">
 
 ### Or just select it
@@ -57,7 +57,7 @@ synonyms and a note on usage.
 </td>
 </tr>
 <tr>
-<td><img src="https://leafyapp.uk/images/readme/lookup.gif" alt="The definition popup with pronunciation and examples"></td>
+<td><img src="images/lookup.gif" alt="The definition popup with pronunciation and examples"></td>
 <td valign="middle">
 
 ### Read it without leaving
@@ -68,7 +68,7 @@ Pronunciation, part of speech and a second example come with it.
 </td>
 </tr>
 <tr>
-<td><img src="https://leafyapp.uk/images/readme/library.gif" alt="The word library filling up"></td>
+<td><img src="images/library.gif" alt="The word library filling up"></td>
 <td valign="middle">
 
 ### It saves itself
@@ -82,7 +82,7 @@ build. Saved something you did not mean to? Delete it and it is gone.
 </td>
 </tr>
 <tr>
-<td><img src="https://leafyapp.uk/images/readme/review.gif" alt="Daily review queue"></td>
+<td><img src="images/review.gif" alt="Daily review queue"></td>
 <td valign="middle">
 
 ### Review writes itself
