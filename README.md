@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://leafyapp.uk/images/og-card.png" alt="Leafy: look it up without looking away. Option-A saves it instantly." width="900">
+  <img src="https://leafyapp.uk/images/og-card.png" alt="LeafyApp: look it up without looking away. Option-A saves it instantly." width="900">
 </p>
 
 <h3 align="center">Press <kbd>⌥A</kbd> over any word on screen.<br>Read it where you found it. It is already saved.</h3>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <sub>Leafy is closed source. This repository is the official download, the changelog and the issue tracker.</sub>
+  <sub>LeafyApp (Leafy) is closed source. This repository is the official download, the changelog and the issue tracker.</sub>
 </p>
 
 <br>
@@ -34,7 +34,7 @@
 
 ### Box any word on screen
 
-Press <kbd>⌥A</kbd> and draw a box. Leafy reads the whole sentence around the
+Press <kbd>⌥A</kbd> and draw a box. LeafyApp reads the whole sentence around the
 word, so the meaning you get is the one that fits where you found it.
 
 It reads pixels, not text fields, so a scanned PDF or a screenshot works the
@@ -87,7 +87,7 @@ build. Saved something you did not mean to? Delete it and it is gone.
 
 ### Review writes itself
 
-Leafy blanks the word out of the sentence you first met it in and asks you to
+LeafyApp blanks the word out of the sentence you first met it in and asks you to
 fill the gap.
 
 A few each day, drawn from your own reading. No decks to make.
@@ -121,7 +121,7 @@ The interface itself runs in 16 languages. More study languages are on the way.
 
 Download the latest `.dmg` from [Releases](https://github.com/binjto-boop/leafy-releases/releases/latest) and drag Leafy to Applications.
 
-macOS will ask for Screen Recording the first time you scan. That permission is what lets Leafy read words off the screen. What it captures is not uploaded anywhere. To write a definition Leafy sends the word and the sentence it sits in, through a proxy, with no account and nothing identifying you attached. Your library stays on your Mac.
+macOS will ask for Screen Recording the first time you scan. That permission is what lets LeafyApp read words off the screen. What it captures is not uploaded anywhere. To write a definition LeafyApp sends the word and the sentence it sits in, through a proxy, with no account and nothing identifying you attached. Your library stays on your Mac.
 
 Updates arrive in the app. Quit with <kbd>⌘Q</kbd> and reopen to pick one up.
 
@@ -134,13 +134,13 @@ Stuck? Two of the common ones are [a scan coming back empty](https://leafyapp.uk
 
 <br>
 
-This repository hosts the released builds and their notes. Leafy itself is closed source.
+This repository hosts the released builds and their notes. LeafyApp itself is closed source.
 
 Every version's changes are listed under [Releases](https://github.com/binjto-boop/leafy-releases/releases), and there is a readable history on the [updates page](https://leafyapp.uk/update).
 
 Only the current version can be downloaded. Older builds are refused by the update service, so running one is not possible.
 
-Your words are not tied to that. The library is a plain JSON file on your Mac. Back it up, move it to another machine, or export it to Anki whenever you want, with or without Leafy running.
+Your words are not tied to that. The library is a plain JSON file on your Mac. Back it up, move it to another machine, or export it to Anki whenever you want, with or without LeafyApp running.
 
 </details>
 
@@ -152,7 +152,7 @@ Your words are not tied to that. The library is a plain JSON file on your Mac. B
 | :--- | :--- |
 | [Discord](https://discord.gg/cr3mHVtT5j) | Ask something, report something, or watch what is being built. |
 | [r/LeafyApp](https://www.reddit.com/r/LeafyApp/) | Release notes and the occasional question. |
-| [Product Hunt](https://www.producthunt.com/products/leafy-vocabulary-builder-for-mac) | Leave a review if Leafy earned one. |
+| [Product Hunt](https://www.producthunt.com/products/leafy-vocabulary-builder-for-mac) | Leave a review if LeafyApp earned one. |
 | [AlternativeTo](https://alternativeto.net/software/leafy-vocabulary-builder-for-mac/) | Where people look when they are shopping around. |
 | [@jtobin9ic](https://x.com/jtobin9ic) | The person making it. |
 
