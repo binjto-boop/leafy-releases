@@ -5,7 +5,7 @@
 <h3 align="center">Press <kbd>⌥A</kbd> over any word on screen.<br>Read it where you found it. It is already saved.</h3>
 
 <p align="center">
-  <a href="https://github.com/binjto-boop/leafy-releases/releases/latest"><b>Download for macOS</b></a>
+  <a href="https://github.com/binjto-boop/leafyapp-releases/releases/latest"><b>Download for macOS</b></a>
   &nbsp;·&nbsp;
   <a href="https://leafyapp.uk">Website</a>
   &nbsp;·&nbsp;
@@ -119,7 +119,7 @@ The interface itself runs in 16 languages. More study languages are on the way.
 
 <br>
 
-Download the latest `.dmg` from [Releases](https://github.com/binjto-boop/leafy-releases/releases/latest) and drag Leafy to Applications.
+Download the latest `.dmg` from [Releases](https://github.com/binjto-boop/leafyapp-releases/releases/latest) and drag Leafy to Applications.
 
 macOS will ask for Screen Recording the first time you scan. That permission is what lets LeafyApp read words off the screen. What it captures is not uploaded anywhere. To write a definition LeafyApp sends the word and the sentence it sits in, through a proxy, with no account and nothing identifying you attached. Your library stays on your Mac.
 
@@ -136,7 +136,7 @@ Stuck? Two of the common ones are [a scan coming back empty](https://leafyapp.uk
 
 This repository hosts the released builds and their notes. LeafyApp itself is closed source.
 
-Every version's changes are listed under [Releases](https://github.com/binjto-boop/leafy-releases/releases), and there is a readable history on the [updates page](https://leafyapp.uk/update).
+Every version's changes are listed under [Releases](https://github.com/binjto-boop/leafyapp-releases/releases), and there is a readable history on the [updates page](https://leafyapp.uk/update).
 
 Only the current version can be downloaded. Older builds are refused by the update service, so running one is not possible.
 
@@ -160,7 +160,7 @@ Your words are not tied to that. The library is a plain JSON file on your Mac. B
 
 <p align="center">
   Found a bug, or want to ask for something?<br>
-  <a href="https://github.com/binjto-boop/leafy-releases/issues">Open an issue</a>
+  <a href="https://github.com/binjto-boop/leafyapp-releases/issues">Open an issue</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/cr3mHVtT5j">Come to Discord</a>
 </p>
